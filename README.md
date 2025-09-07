@@ -1,7 +1,8 @@
 # My First Coding Assignment
-![alt text](GIF CLASS.gif)
+![alt text](Wendy.jpg)
+
 ## About Me
-Certified silly goose: always cracking jokes and bringing levity to any situation. Naturally, I love puns and with a last name like mine, they thrive at the grocery store (I'm a real "cereal" killer when it comes to bad jokes).
+Certified silly goose: always cracking jokes and bringing levity to any situation. Naturally, I love puns and with a last name like mine, they thrive at the grocery store (I'm a real "cereal" killer when it cosmes to bad jokes).
 
 My hobbies include messing with my frenchie (named after Lilo from Lilo and Stitch), burning down kitchens through my fun attempts at cooking, getting lost in new cities/places with my complete disregard for direction,  reading or at least attempting to and spending too much time switching outfits to go to coffee shops. 
 
